@@ -16,7 +16,7 @@ FROM Production.Product AS p
 
 SELECT ProductID, Name, Color, ListPrice
 FROM Production.Product
-WHERE ListPrice = 0
+WHERE ListPrice != 0
 
 --3. Write a query that retrieves the 
 --	columns ProductID, Name, Color and ListPrice from the Production.Product table,
@@ -48,6 +48,7 @@ WHERE Color IS NOT NULL
 
 SELECT 'NAME:' + ' ' + Name + ' ' + '--' + ' ' + 'COLOR:' + ' '  + Color [Question6]
 FROM Production.Product
+WHERE Color IS NOT NULL
 
 --7. Write a query to retrieve the to the columns ProductID 
 --	and Name from the Production.Product table filtered by 
@@ -79,6 +80,7 @@ WHERE Name LIKE 'S%'
 
 SELECT Name, ListPrice
 FROM Production.Product
+WHERE Name LIKE '[A,S]%'
 ORDER BY Name
 
 --11. Write a query so you retrieve rows
