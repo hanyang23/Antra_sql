@@ -21,7 +21,7 @@ SELECT DISTINCT od.OrderID, COUNT(od.Quantity) AS CountOfOrders
 FROM [Order Details] od JOIN Orders o ON o.OrderId = od.OrderID
 WHERE @today - o.OrderDate > 25
 GROUP BY od.OrderID
-HAVING COUNT(od.Quantity) IS NOT NULL
+HAVING COUNT(od.Quantity) >= 1
 
 --4.
 declare @today datetime
@@ -93,9 +93,13 @@ ORDER BY c.City
 
 --15.
 --a. Use sub-query/?
-SELECT City
-(SELECT City FROM Customers c WHERE c.CustomerID IS NOT NULL) AS City, 
-(SELECT City FROM Employees e WHERE e.EmployeeID ISNULL) AS LastName
+SELECT c.City
+FROM Customers c
+WHERE c.City NOT IN
+(
+SELECT e.City
+FROM Employees e
+)
 
 --b. Do not use sub-query
 SELECT City
@@ -125,12 +129,30 @@ GROUP BY c.City
 HAVING COUNT(c.CustomerID) >= 2
  
 --Use sub-query/? and no union
-SELECT City, COUNT(c.CustomerID) as NumOfCustomers
+SELECT DISTINCT City
+FROM Customers
+WHERE City IN
+(
+SELECT c.City
 FROM Customers c
-GROUP BY City
+GROUP BY c.City
 HAVING COUNT(c.CustomerID) >= 2
+)
 
 --18.
+SELECT c.City
+FROM Customers c
+WHERE c.CustomerID IN
+(
+SELECT o.CustomerID
+FROM Orders o
+WHERE o.OrderID IN
+(
+SELECT d.OrderID
+FROM [Order Details] d
+GROUP BY d.OrderID
+HAVING COUNT(d.ProductID) > 2)
+)
 
 --19.
 SELECT TOP 5 p.ProductName, AVG(od.UnitPrice) AS AvgPrice, o.ShipCity, od.Quantity
