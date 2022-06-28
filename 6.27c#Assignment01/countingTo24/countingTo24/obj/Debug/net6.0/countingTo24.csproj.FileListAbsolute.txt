@@ -1,0 +1,15 @@
+C:\Users\12243\source\6.27c#A\countingTo24\countingTo24\bin\Debug\net6.0\countingTo24.exe
+C:\Users\12243\source\6.27c#A\countingTo24\countingTo24\bin\Debug\net6.0\countingTo24.deps.json
+C:\Users\12243\source\6.27c#A\countingTo24\countingTo24\bin\Debug\net6.0\countingTo24.runtimeconfig.json
+C:\Users\12243\source\6.27c#A\countingTo24\countingTo24\bin\Debug\net6.0\countingTo24.dll
+C:\Users\12243\source\6.27c#A\countingTo24\countingTo24\bin\Debug\net6.0\countingTo24.pdb
+C:\Users\12243\source\6.27c#A\countingTo24\countingTo24\obj\Debug\net6.0\countingTo24.csproj.AssemblyReference.cache
+C:\Users\12243\source\6.27c#A\countingTo24\countingTo24\obj\Debug\net6.0\countingTo24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12243\source\6.27c#A\countingTo24\countingTo24\obj\Debug\net6.0\countingTo24.AssemblyInfoInputs.cache
+C:\Users\12243\source\6.27c#A\countingTo24\countingTo24\obj\Debug\net6.0\countingTo24.AssemblyInfo.cs
+C:\Users\12243\source\6.27c#A\countingTo24\countingTo24\obj\Debug\net6.0\countingTo24.csproj.CoreCompileInputs.cache
+C:\Users\12243\source\6.27c#A\countingTo24\countingTo24\obj\Debug\net6.0\countingTo24.dll
+C:\Users\12243\source\6.27c#A\countingTo24\countingTo24\obj\Debug\net6.0\refint\countingTo24.dll
+C:\Users\12243\source\6.27c#A\countingTo24\countingTo24\obj\Debug\net6.0\countingTo24.pdb
+C:\Users\12243\source\6.27c#A\countingTo24\countingTo24\obj\Debug\net6.0\countingTo24.genruntimeconfig.cache
+C:\Users\12243\source\6.27c#A\countingTo24\countingTo24\obj\Debug\net6.0\ref\countingTo24.dll

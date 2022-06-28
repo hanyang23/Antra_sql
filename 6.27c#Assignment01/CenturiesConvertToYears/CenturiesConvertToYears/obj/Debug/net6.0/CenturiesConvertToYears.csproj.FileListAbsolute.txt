@@ -1,0 +1,15 @@
+C:\Users\12243\source\6.27c#A\CenturiesConvertToYears\CenturiesConvertToYears\bin\Debug\net6.0\CenturiesConvertToYears.exe
+C:\Users\12243\source\6.27c#A\CenturiesConvertToYears\CenturiesConvertToYears\bin\Debug\net6.0\CenturiesConvertToYears.deps.json
+C:\Users\12243\source\6.27c#A\CenturiesConvertToYears\CenturiesConvertToYears\bin\Debug\net6.0\CenturiesConvertToYears.runtimeconfig.json
+C:\Users\12243\source\6.27c#A\CenturiesConvertToYears\CenturiesConvertToYears\bin\Debug\net6.0\CenturiesConvertToYears.dll
+C:\Users\12243\source\6.27c#A\CenturiesConvertToYears\CenturiesConvertToYears\bin\Debug\net6.0\CenturiesConvertToYears.pdb
+C:\Users\12243\source\6.27c#A\CenturiesConvertToYears\CenturiesConvertToYears\obj\Debug\net6.0\CenturiesConvertToYears.csproj.AssemblyReference.cache
+C:\Users\12243\source\6.27c#A\CenturiesConvertToYears\CenturiesConvertToYears\obj\Debug\net6.0\CenturiesConvertToYears.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12243\source\6.27c#A\CenturiesConvertToYears\CenturiesConvertToYears\obj\Debug\net6.0\CenturiesConvertToYears.AssemblyInfoInputs.cache
+C:\Users\12243\source\6.27c#A\CenturiesConvertToYears\CenturiesConvertToYears\obj\Debug\net6.0\CenturiesConvertToYears.AssemblyInfo.cs
+C:\Users\12243\source\6.27c#A\CenturiesConvertToYears\CenturiesConvertToYears\obj\Debug\net6.0\CenturiesConvertToYears.csproj.CoreCompileInputs.cache
+C:\Users\12243\source\6.27c#A\CenturiesConvertToYears\CenturiesConvertToYears\obj\Debug\net6.0\CenturiesConvertToYears.dll
+C:\Users\12243\source\6.27c#A\CenturiesConvertToYears\CenturiesConvertToYears\obj\Debug\net6.0\refint\CenturiesConvertToYears.dll
+C:\Users\12243\source\6.27c#A\CenturiesConvertToYears\CenturiesConvertToYears\obj\Debug\net6.0\CenturiesConvertToYears.pdb
+C:\Users\12243\source\6.27c#A\CenturiesConvertToYears\CenturiesConvertToYears\obj\Debug\net6.0\CenturiesConvertToYears.genruntimeconfig.cache
+C:\Users\12243\source\6.27c#A\CenturiesConvertToYears\CenturiesConvertToYears\obj\Debug\net6.0\ref\CenturiesConvertToYears.dll

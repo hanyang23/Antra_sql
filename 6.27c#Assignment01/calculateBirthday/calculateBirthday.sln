@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculateBirthday", "calculateBirthday\calculateBirthday.csproj", "{5997C02B-BDD4-4F50-B44D-A452E686AEDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5997C02B-BDD4-4F50-B44D-A452E686AEDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5997C02B-BDD4-4F50-B44D-A452E686AEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5997C02B-BDD4-4F50-B44D-A452E686AEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5997C02B-BDD4-4F50-B44D-A452E686AEDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E81D0B9D-FAAD-44E4-BCBB-B30A0630169A}
+	EndGlobalSection
+EndGlobal

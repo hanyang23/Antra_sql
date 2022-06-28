@@ -1,0 +1,15 @@
+C:\Users\12243\source\6.27c#A\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net6.0\02UnderstandingTypes.exe
+C:\Users\12243\source\6.27c#A\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net6.0\02UnderstandingTypes.deps.json
+C:\Users\12243\source\6.27c#A\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net6.0\02UnderstandingTypes.runtimeconfig.json
+C:\Users\12243\source\6.27c#A\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net6.0\02UnderstandingTypes.dll
+C:\Users\12243\source\6.27c#A\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net6.0\02UnderstandingTypes.pdb
+C:\Users\12243\source\6.27c#A\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net6.0\02UnderstandingTypes.csproj.AssemblyReference.cache
+C:\Users\12243\source\6.27c#A\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net6.0\02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12243\source\6.27c#A\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net6.0\02UnderstandingTypes.AssemblyInfoInputs.cache
+C:\Users\12243\source\6.27c#A\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net6.0\02UnderstandingTypes.AssemblyInfo.cs
+C:\Users\12243\source\6.27c#A\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net6.0\02UnderstandingTypes.csproj.CoreCompileInputs.cache
+C:\Users\12243\source\6.27c#A\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net6.0\02UnderstandingTypes.dll
+C:\Users\12243\source\6.27c#A\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net6.0\refint\02UnderstandingTypes.dll
+C:\Users\12243\source\6.27c#A\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net6.0\02UnderstandingTypes.pdb
+C:\Users\12243\source\6.27c#A\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net6.0\02UnderstandingTypes.genruntimeconfig.cache
+C:\Users\12243\source\6.27c#A\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net6.0\ref\02UnderstandingTypes.dll

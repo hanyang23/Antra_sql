@@ -1,0 +1,15 @@
+C:\Users\12243\source\6.27c#A\printAPyramid\printAPyramid\bin\Debug\net6.0\printAPyramid.exe
+C:\Users\12243\source\6.27c#A\printAPyramid\printAPyramid\bin\Debug\net6.0\printAPyramid.deps.json
+C:\Users\12243\source\6.27c#A\printAPyramid\printAPyramid\bin\Debug\net6.0\printAPyramid.runtimeconfig.json
+C:\Users\12243\source\6.27c#A\printAPyramid\printAPyramid\bin\Debug\net6.0\printAPyramid.dll
+C:\Users\12243\source\6.27c#A\printAPyramid\printAPyramid\bin\Debug\net6.0\printAPyramid.pdb
+C:\Users\12243\source\6.27c#A\printAPyramid\printAPyramid\obj\Debug\net6.0\printAPyramid.csproj.AssemblyReference.cache
+C:\Users\12243\source\6.27c#A\printAPyramid\printAPyramid\obj\Debug\net6.0\printAPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12243\source\6.27c#A\printAPyramid\printAPyramid\obj\Debug\net6.0\printAPyramid.AssemblyInfoInputs.cache
+C:\Users\12243\source\6.27c#A\printAPyramid\printAPyramid\obj\Debug\net6.0\printAPyramid.AssemblyInfo.cs
+C:\Users\12243\source\6.27c#A\printAPyramid\printAPyramid\obj\Debug\net6.0\printAPyramid.csproj.CoreCompileInputs.cache
+C:\Users\12243\source\6.27c#A\printAPyramid\printAPyramid\obj\Debug\net6.0\printAPyramid.dll
+C:\Users\12243\source\6.27c#A\printAPyramid\printAPyramid\obj\Debug\net6.0\refint\printAPyramid.dll
+C:\Users\12243\source\6.27c#A\printAPyramid\printAPyramid\obj\Debug\net6.0\printAPyramid.pdb
+C:\Users\12243\source\6.27c#A\printAPyramid\printAPyramid\obj\Debug\net6.0\printAPyramid.genruntimeconfig.cache
+C:\Users\12243\source\6.27c#A\printAPyramid\printAPyramid\obj\Debug\net6.0\ref\printAPyramid.dll

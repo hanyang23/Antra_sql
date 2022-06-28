@@ -1,0 +1,15 @@
+C:\Users\12243\source\6.27c#A\guessTheNumber\guessTheNumber\bin\Debug\net6.0\guessTheNumber.exe
+C:\Users\12243\source\6.27c#A\guessTheNumber\guessTheNumber\bin\Debug\net6.0\guessTheNumber.deps.json
+C:\Users\12243\source\6.27c#A\guessTheNumber\guessTheNumber\bin\Debug\net6.0\guessTheNumber.runtimeconfig.json
+C:\Users\12243\source\6.27c#A\guessTheNumber\guessTheNumber\bin\Debug\net6.0\guessTheNumber.dll
+C:\Users\12243\source\6.27c#A\guessTheNumber\guessTheNumber\bin\Debug\net6.0\guessTheNumber.pdb
+C:\Users\12243\source\6.27c#A\guessTheNumber\guessTheNumber\obj\Debug\net6.0\guessTheNumber.csproj.AssemblyReference.cache
+C:\Users\12243\source\6.27c#A\guessTheNumber\guessTheNumber\obj\Debug\net6.0\guessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12243\source\6.27c#A\guessTheNumber\guessTheNumber\obj\Debug\net6.0\guessTheNumber.AssemblyInfoInputs.cache
+C:\Users\12243\source\6.27c#A\guessTheNumber\guessTheNumber\obj\Debug\net6.0\guessTheNumber.AssemblyInfo.cs
+C:\Users\12243\source\6.27c#A\guessTheNumber\guessTheNumber\obj\Debug\net6.0\guessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\12243\source\6.27c#A\guessTheNumber\guessTheNumber\obj\Debug\net6.0\guessTheNumber.dll
+C:\Users\12243\source\6.27c#A\guessTheNumber\guessTheNumber\obj\Debug\net6.0\refint\guessTheNumber.dll
+C:\Users\12243\source\6.27c#A\guessTheNumber\guessTheNumber\obj\Debug\net6.0\guessTheNumber.pdb
+C:\Users\12243\source\6.27c#A\guessTheNumber\guessTheNumber\obj\Debug\net6.0\guessTheNumber.genruntimeconfig.cache
+C:\Users\12243\source\6.27c#A\guessTheNumber\guessTheNumber\obj\Debug\net6.0\ref\guessTheNumber.dll

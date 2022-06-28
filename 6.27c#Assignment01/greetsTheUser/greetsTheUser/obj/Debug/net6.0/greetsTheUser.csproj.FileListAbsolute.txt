@@ -1,0 +1,15 @@
+C:\Users\12243\source\6.27c#A\greetsTheUser\greetsTheUser\bin\Debug\net6.0\greetsTheUser.exe
+C:\Users\12243\source\6.27c#A\greetsTheUser\greetsTheUser\bin\Debug\net6.0\greetsTheUser.deps.json
+C:\Users\12243\source\6.27c#A\greetsTheUser\greetsTheUser\bin\Debug\net6.0\greetsTheUser.runtimeconfig.json
+C:\Users\12243\source\6.27c#A\greetsTheUser\greetsTheUser\bin\Debug\net6.0\greetsTheUser.dll
+C:\Users\12243\source\6.27c#A\greetsTheUser\greetsTheUser\bin\Debug\net6.0\greetsTheUser.pdb
+C:\Users\12243\source\6.27c#A\greetsTheUser\greetsTheUser\obj\Debug\net6.0\greetsTheUser.csproj.AssemblyReference.cache
+C:\Users\12243\source\6.27c#A\greetsTheUser\greetsTheUser\obj\Debug\net6.0\greetsTheUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12243\source\6.27c#A\greetsTheUser\greetsTheUser\obj\Debug\net6.0\greetsTheUser.AssemblyInfoInputs.cache
+C:\Users\12243\source\6.27c#A\greetsTheUser\greetsTheUser\obj\Debug\net6.0\greetsTheUser.AssemblyInfo.cs
+C:\Users\12243\source\6.27c#A\greetsTheUser\greetsTheUser\obj\Debug\net6.0\greetsTheUser.csproj.CoreCompileInputs.cache
+C:\Users\12243\source\6.27c#A\greetsTheUser\greetsTheUser\obj\Debug\net6.0\greetsTheUser.dll
+C:\Users\12243\source\6.27c#A\greetsTheUser\greetsTheUser\obj\Debug\net6.0\refint\greetsTheUser.dll
+C:\Users\12243\source\6.27c#A\greetsTheUser\greetsTheUser\obj\Debug\net6.0\greetsTheUser.pdb
+C:\Users\12243\source\6.27c#A\greetsTheUser\greetsTheUser\obj\Debug\net6.0\greetsTheUser.genruntimeconfig.cache
+C:\Users\12243\source\6.27c#A\greetsTheUser\greetsTheUser\obj\Debug\net6.0\ref\greetsTheUser.dll
