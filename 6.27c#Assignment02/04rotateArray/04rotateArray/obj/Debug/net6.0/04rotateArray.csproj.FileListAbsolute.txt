@@ -1,0 +1,15 @@
+C:\Users\12243\source\6.27c#Assignment02\04rotateArray\04rotateArray\bin\Debug\net6.0\04rotateArray.exe
+C:\Users\12243\source\6.27c#Assignment02\04rotateArray\04rotateArray\bin\Debug\net6.0\04rotateArray.deps.json
+C:\Users\12243\source\6.27c#Assignment02\04rotateArray\04rotateArray\bin\Debug\net6.0\04rotateArray.runtimeconfig.json
+C:\Users\12243\source\6.27c#Assignment02\04rotateArray\04rotateArray\bin\Debug\net6.0\04rotateArray.dll
+C:\Users\12243\source\6.27c#Assignment02\04rotateArray\04rotateArray\bin\Debug\net6.0\04rotateArray.pdb
+C:\Users\12243\source\6.27c#Assignment02\04rotateArray\04rotateArray\obj\Debug\net6.0\04rotateArray.csproj.AssemblyReference.cache
+C:\Users\12243\source\6.27c#Assignment02\04rotateArray\04rotateArray\obj\Debug\net6.0\04rotateArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12243\source\6.27c#Assignment02\04rotateArray\04rotateArray\obj\Debug\net6.0\04rotateArray.AssemblyInfoInputs.cache
+C:\Users\12243\source\6.27c#Assignment02\04rotateArray\04rotateArray\obj\Debug\net6.0\04rotateArray.AssemblyInfo.cs
+C:\Users\12243\source\6.27c#Assignment02\04rotateArray\04rotateArray\obj\Debug\net6.0\04rotateArray.csproj.CoreCompileInputs.cache
+C:\Users\12243\source\6.27c#Assignment02\04rotateArray\04rotateArray\obj\Debug\net6.0\04rotateArray.dll
+C:\Users\12243\source\6.27c#Assignment02\04rotateArray\04rotateArray\obj\Debug\net6.0\refint\04rotateArray.dll
+C:\Users\12243\source\6.27c#Assignment02\04rotateArray\04rotateArray\obj\Debug\net6.0\04rotateArray.pdb
+C:\Users\12243\source\6.27c#Assignment02\04rotateArray\04rotateArray\obj\Debug\net6.0\04rotateArray.genruntimeconfig.cache
+C:\Users\12243\source\6.27c#Assignment02\04rotateArray\04rotateArray\obj\Debug\net6.0\ref\04rotateArray.dll

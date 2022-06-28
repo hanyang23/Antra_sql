@@ -1,0 +1,15 @@
+C:\Users\12243\source\6.27c#Assignment02\07findFrequentNumber\07findFrequentNumber\bin\Debug\net6.0\07findFrequentNumber.exe
+C:\Users\12243\source\6.27c#Assignment02\07findFrequentNumber\07findFrequentNumber\bin\Debug\net6.0\07findFrequentNumber.deps.json
+C:\Users\12243\source\6.27c#Assignment02\07findFrequentNumber\07findFrequentNumber\bin\Debug\net6.0\07findFrequentNumber.runtimeconfig.json
+C:\Users\12243\source\6.27c#Assignment02\07findFrequentNumber\07findFrequentNumber\bin\Debug\net6.0\07findFrequentNumber.dll
+C:\Users\12243\source\6.27c#Assignment02\07findFrequentNumber\07findFrequentNumber\bin\Debug\net6.0\07findFrequentNumber.pdb
+C:\Users\12243\source\6.27c#Assignment02\07findFrequentNumber\07findFrequentNumber\obj\Debug\net6.0\07findFrequentNumber.csproj.AssemblyReference.cache
+C:\Users\12243\source\6.27c#Assignment02\07findFrequentNumber\07findFrequentNumber\obj\Debug\net6.0\07findFrequentNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12243\source\6.27c#Assignment02\07findFrequentNumber\07findFrequentNumber\obj\Debug\net6.0\07findFrequentNumber.AssemblyInfoInputs.cache
+C:\Users\12243\source\6.27c#Assignment02\07findFrequentNumber\07findFrequentNumber\obj\Debug\net6.0\07findFrequentNumber.AssemblyInfo.cs
+C:\Users\12243\source\6.27c#Assignment02\07findFrequentNumber\07findFrequentNumber\obj\Debug\net6.0\07findFrequentNumber.csproj.CoreCompileInputs.cache
+C:\Users\12243\source\6.27c#Assignment02\07findFrequentNumber\07findFrequentNumber\obj\Debug\net6.0\07findFrequentNumber.dll
+C:\Users\12243\source\6.27c#Assignment02\07findFrequentNumber\07findFrequentNumber\obj\Debug\net6.0\refint\07findFrequentNumber.dll
+C:\Users\12243\source\6.27c#Assignment02\07findFrequentNumber\07findFrequentNumber\obj\Debug\net6.0\07findFrequentNumber.pdb
+C:\Users\12243\source\6.27c#Assignment02\07findFrequentNumber\07findFrequentNumber\obj\Debug\net6.0\07findFrequentNumber.genruntimeconfig.cache
+C:\Users\12243\source\6.27c#Assignment02\07findFrequentNumber\07findFrequentNumber\obj\Debug\net6.0\ref\07findFrequentNumber.dll

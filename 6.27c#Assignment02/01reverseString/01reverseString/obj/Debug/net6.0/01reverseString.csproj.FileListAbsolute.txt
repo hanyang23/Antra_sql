@@ -1,0 +1,15 @@
+C:\Users\12243\source\6.27c#Assignment02\01reverseString\01reverseString\bin\Debug\net6.0\01reverseString.exe
+C:\Users\12243\source\6.27c#Assignment02\01reverseString\01reverseString\bin\Debug\net6.0\01reverseString.deps.json
+C:\Users\12243\source\6.27c#Assignment02\01reverseString\01reverseString\bin\Debug\net6.0\01reverseString.runtimeconfig.json
+C:\Users\12243\source\6.27c#Assignment02\01reverseString\01reverseString\bin\Debug\net6.0\01reverseString.dll
+C:\Users\12243\source\6.27c#Assignment02\01reverseString\01reverseString\bin\Debug\net6.0\01reverseString.pdb
+C:\Users\12243\source\6.27c#Assignment02\01reverseString\01reverseString\obj\Debug\net6.0\01reverseString.csproj.AssemblyReference.cache
+C:\Users\12243\source\6.27c#Assignment02\01reverseString\01reverseString\obj\Debug\net6.0\01reverseString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12243\source\6.27c#Assignment02\01reverseString\01reverseString\obj\Debug\net6.0\01reverseString.AssemblyInfoInputs.cache
+C:\Users\12243\source\6.27c#Assignment02\01reverseString\01reverseString\obj\Debug\net6.0\01reverseString.AssemblyInfo.cs
+C:\Users\12243\source\6.27c#Assignment02\01reverseString\01reverseString\obj\Debug\net6.0\01reverseString.csproj.CoreCompileInputs.cache
+C:\Users\12243\source\6.27c#Assignment02\01reverseString\01reverseString\obj\Debug\net6.0\01reverseString.dll
+C:\Users\12243\source\6.27c#Assignment02\01reverseString\01reverseString\obj\Debug\net6.0\refint\01reverseString.dll
+C:\Users\12243\source\6.27c#Assignment02\01reverseString\01reverseString\obj\Debug\net6.0\01reverseString.pdb
+C:\Users\12243\source\6.27c#Assignment02\01reverseString\01reverseString\obj\Debug\net6.0\01reverseString.genruntimeconfig.cache
+C:\Users\12243\source\6.27c#Assignment02\01reverseString\01reverseString\obj\Debug\net6.0\ref\01reverseString.dll

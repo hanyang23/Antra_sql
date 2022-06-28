@@ -1,0 +1,15 @@
+C:\Users\12243\source\6.27c#Assignment02\03textPalindromes\03textPalindromes\bin\Debug\net6.0\03textPalindromes.exe
+C:\Users\12243\source\6.27c#Assignment02\03textPalindromes\03textPalindromes\bin\Debug\net6.0\03textPalindromes.deps.json
+C:\Users\12243\source\6.27c#Assignment02\03textPalindromes\03textPalindromes\bin\Debug\net6.0\03textPalindromes.runtimeconfig.json
+C:\Users\12243\source\6.27c#Assignment02\03textPalindromes\03textPalindromes\bin\Debug\net6.0\03textPalindromes.dll
+C:\Users\12243\source\6.27c#Assignment02\03textPalindromes\03textPalindromes\bin\Debug\net6.0\03textPalindromes.pdb
+C:\Users\12243\source\6.27c#Assignment02\03textPalindromes\03textPalindromes\obj\Debug\net6.0\03textPalindromes.csproj.AssemblyReference.cache
+C:\Users\12243\source\6.27c#Assignment02\03textPalindromes\03textPalindromes\obj\Debug\net6.0\03textPalindromes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12243\source\6.27c#Assignment02\03textPalindromes\03textPalindromes\obj\Debug\net6.0\03textPalindromes.AssemblyInfoInputs.cache
+C:\Users\12243\source\6.27c#Assignment02\03textPalindromes\03textPalindromes\obj\Debug\net6.0\03textPalindromes.AssemblyInfo.cs
+C:\Users\12243\source\6.27c#Assignment02\03textPalindromes\03textPalindromes\obj\Debug\net6.0\03textPalindromes.csproj.CoreCompileInputs.cache
+C:\Users\12243\source\6.27c#Assignment02\03textPalindromes\03textPalindromes\obj\Debug\net6.0\03textPalindromes.dll
+C:\Users\12243\source\6.27c#Assignment02\03textPalindromes\03textPalindromes\obj\Debug\net6.0\refint\03textPalindromes.dll
+C:\Users\12243\source\6.27c#Assignment02\03textPalindromes\03textPalindromes\obj\Debug\net6.0\03textPalindromes.pdb
+C:\Users\12243\source\6.27c#Assignment02\03textPalindromes\03textPalindromes\obj\Debug\net6.0\03textPalindromes.genruntimeconfig.cache
+C:\Users\12243\source\6.27c#Assignment02\03textPalindromes\03textPalindromes\obj\Debug\net6.0\ref\03textPalindromes.dll

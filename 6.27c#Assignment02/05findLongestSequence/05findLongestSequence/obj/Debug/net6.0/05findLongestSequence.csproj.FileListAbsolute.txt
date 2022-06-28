@@ -1,0 +1,15 @@
+C:\Users\12243\source\6.27c#Assignment02\05findLongestSequence\05findLongestSequence\bin\Debug\net6.0\05findLongestSequence.exe
+C:\Users\12243\source\6.27c#Assignment02\05findLongestSequence\05findLongestSequence\bin\Debug\net6.0\05findLongestSequence.deps.json
+C:\Users\12243\source\6.27c#Assignment02\05findLongestSequence\05findLongestSequence\bin\Debug\net6.0\05findLongestSequence.runtimeconfig.json
+C:\Users\12243\source\6.27c#Assignment02\05findLongestSequence\05findLongestSequence\bin\Debug\net6.0\05findLongestSequence.dll
+C:\Users\12243\source\6.27c#Assignment02\05findLongestSequence\05findLongestSequence\bin\Debug\net6.0\05findLongestSequence.pdb
+C:\Users\12243\source\6.27c#Assignment02\05findLongestSequence\05findLongestSequence\obj\Debug\net6.0\05findLongestSequence.csproj.AssemblyReference.cache
+C:\Users\12243\source\6.27c#Assignment02\05findLongestSequence\05findLongestSequence\obj\Debug\net6.0\05findLongestSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12243\source\6.27c#Assignment02\05findLongestSequence\05findLongestSequence\obj\Debug\net6.0\05findLongestSequence.AssemblyInfoInputs.cache
+C:\Users\12243\source\6.27c#Assignment02\05findLongestSequence\05findLongestSequence\obj\Debug\net6.0\05findLongestSequence.AssemblyInfo.cs
+C:\Users\12243\source\6.27c#Assignment02\05findLongestSequence\05findLongestSequence\obj\Debug\net6.0\05findLongestSequence.csproj.CoreCompileInputs.cache
+C:\Users\12243\source\6.27c#Assignment02\05findLongestSequence\05findLongestSequence\obj\Debug\net6.0\05findLongestSequence.dll
+C:\Users\12243\source\6.27c#Assignment02\05findLongestSequence\05findLongestSequence\obj\Debug\net6.0\refint\05findLongestSequence.dll
+C:\Users\12243\source\6.27c#Assignment02\05findLongestSequence\05findLongestSequence\obj\Debug\net6.0\05findLongestSequence.pdb
+C:\Users\12243\source\6.27c#Assignment02\05findLongestSequence\05findLongestSequence\obj\Debug\net6.0\05findLongestSequence.genruntimeconfig.cache
+C:\Users\12243\source\6.27c#Assignment02\05findLongestSequence\05findLongestSequence\obj\Debug\net6.0\ref\05findLongestSequence.dll

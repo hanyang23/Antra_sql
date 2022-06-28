@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07findFrequentNumber", "07findFrequentNumber\07findFrequentNumber.csproj", "{AD601971-FACB-4ADE-B9D0-5389920A730A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD601971-FACB-4ADE-B9D0-5389920A730A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD601971-FACB-4ADE-B9D0-5389920A730A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD601971-FACB-4ADE-B9D0-5389920A730A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD601971-FACB-4ADE-B9D0-5389920A730A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADF66508-806A-42AF-9C44-AD25D08F4E4F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\12243\source\6.27c#Assignment02\03calculatesPrimeNumber\03calculatesPrimeNumber\bin\Debug\net6.0\03calculatesPrimeNumber.exe
+C:\Users\12243\source\6.27c#Assignment02\03calculatesPrimeNumber\03calculatesPrimeNumber\bin\Debug\net6.0\03calculatesPrimeNumber.deps.json
+C:\Users\12243\source\6.27c#Assignment02\03calculatesPrimeNumber\03calculatesPrimeNumber\bin\Debug\net6.0\03calculatesPrimeNumber.runtimeconfig.json
+C:\Users\12243\source\6.27c#Assignment02\03calculatesPrimeNumber\03calculatesPrimeNumber\bin\Debug\net6.0\03calculatesPrimeNumber.dll
+C:\Users\12243\source\6.27c#Assignment02\03calculatesPrimeNumber\03calculatesPrimeNumber\bin\Debug\net6.0\03calculatesPrimeNumber.pdb
+C:\Users\12243\source\6.27c#Assignment02\03calculatesPrimeNumber\03calculatesPrimeNumber\obj\Debug\net6.0\03calculatesPrimeNumber.csproj.AssemblyReference.cache
+C:\Users\12243\source\6.27c#Assignment02\03calculatesPrimeNumber\03calculatesPrimeNumber\obj\Debug\net6.0\03calculatesPrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12243\source\6.27c#Assignment02\03calculatesPrimeNumber\03calculatesPrimeNumber\obj\Debug\net6.0\03calculatesPrimeNumber.AssemblyInfoInputs.cache
+C:\Users\12243\source\6.27c#Assignment02\03calculatesPrimeNumber\03calculatesPrimeNumber\obj\Debug\net6.0\03calculatesPrimeNumber.AssemblyInfo.cs
+C:\Users\12243\source\6.27c#Assignment02\03calculatesPrimeNumber\03calculatesPrimeNumber\obj\Debug\net6.0\03calculatesPrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\12243\source\6.27c#Assignment02\03calculatesPrimeNumber\03calculatesPrimeNumber\obj\Debug\net6.0\03calculatesPrimeNumber.dll
+C:\Users\12243\source\6.27c#Assignment02\03calculatesPrimeNumber\03calculatesPrimeNumber\obj\Debug\net6.0\refint\03calculatesPrimeNumber.dll
+C:\Users\12243\source\6.27c#Assignment02\03calculatesPrimeNumber\03calculatesPrimeNumber\obj\Debug\net6.0\03calculatesPrimeNumber.pdb
+C:\Users\12243\source\6.27c#Assignment02\03calculatesPrimeNumber\03calculatesPrimeNumber\obj\Debug\net6.0\03calculatesPrimeNumber.genruntimeconfig.cache
+C:\Users\12243\source\6.27c#Assignment02\03calculatesPrimeNumber\03calculatesPrimeNumber\obj\Debug\net6.0\ref\03calculatesPrimeNumber.dll

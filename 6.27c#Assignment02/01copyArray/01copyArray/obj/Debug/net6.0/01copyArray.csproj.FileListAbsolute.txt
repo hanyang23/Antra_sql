@@ -1,0 +1,15 @@
+C:\Users\12243\source\6.27c#Assignment02\01copyArray\01copyArray\bin\Debug\net6.0\01copyArray.exe
+C:\Users\12243\source\6.27c#Assignment02\01copyArray\01copyArray\bin\Debug\net6.0\01copyArray.deps.json
+C:\Users\12243\source\6.27c#Assignment02\01copyArray\01copyArray\bin\Debug\net6.0\01copyArray.runtimeconfig.json
+C:\Users\12243\source\6.27c#Assignment02\01copyArray\01copyArray\bin\Debug\net6.0\01copyArray.dll
+C:\Users\12243\source\6.27c#Assignment02\01copyArray\01copyArray\bin\Debug\net6.0\01copyArray.pdb
+C:\Users\12243\source\6.27c#Assignment02\01copyArray\01copyArray\obj\Debug\net6.0\01copyArray.csproj.AssemblyReference.cache
+C:\Users\12243\source\6.27c#Assignment02\01copyArray\01copyArray\obj\Debug\net6.0\01copyArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12243\source\6.27c#Assignment02\01copyArray\01copyArray\obj\Debug\net6.0\01copyArray.AssemblyInfoInputs.cache
+C:\Users\12243\source\6.27c#Assignment02\01copyArray\01copyArray\obj\Debug\net6.0\01copyArray.AssemblyInfo.cs
+C:\Users\12243\source\6.27c#Assignment02\01copyArray\01copyArray\obj\Debug\net6.0\01copyArray.csproj.CoreCompileInputs.cache
+C:\Users\12243\source\6.27c#Assignment02\01copyArray\01copyArray\obj\Debug\net6.0\01copyArray.dll
+C:\Users\12243\source\6.27c#Assignment02\01copyArray\01copyArray\obj\Debug\net6.0\refint\01copyArray.dll
+C:\Users\12243\source\6.27c#Assignment02\01copyArray\01copyArray\obj\Debug\net6.0\01copyArray.pdb
+C:\Users\12243\source\6.27c#Assignment02\01copyArray\01copyArray\obj\Debug\net6.0\01copyArray.genruntimeconfig.cache
+C:\Users\12243\source\6.27c#Assignment02\01copyArray\01copyArray\obj\Debug\net6.0\ref\01copyArray.dll
