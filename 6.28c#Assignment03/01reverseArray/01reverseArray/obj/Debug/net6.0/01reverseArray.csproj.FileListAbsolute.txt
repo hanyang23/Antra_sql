@@ -1,0 +1,15 @@
+C:\Users\12243\source\6.28c#Assignment03\01reverseArray\01reverseArray\bin\Debug\net6.0\01reverseArray.exe
+C:\Users\12243\source\6.28c#Assignment03\01reverseArray\01reverseArray\bin\Debug\net6.0\01reverseArray.deps.json
+C:\Users\12243\source\6.28c#Assignment03\01reverseArray\01reverseArray\bin\Debug\net6.0\01reverseArray.runtimeconfig.json
+C:\Users\12243\source\6.28c#Assignment03\01reverseArray\01reverseArray\bin\Debug\net6.0\01reverseArray.dll
+C:\Users\12243\source\6.28c#Assignment03\01reverseArray\01reverseArray\bin\Debug\net6.0\01reverseArray.pdb
+C:\Users\12243\source\6.28c#Assignment03\01reverseArray\01reverseArray\obj\Debug\net6.0\01reverseArray.csproj.AssemblyReference.cache
+C:\Users\12243\source\6.28c#Assignment03\01reverseArray\01reverseArray\obj\Debug\net6.0\01reverseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12243\source\6.28c#Assignment03\01reverseArray\01reverseArray\obj\Debug\net6.0\01reverseArray.AssemblyInfoInputs.cache
+C:\Users\12243\source\6.28c#Assignment03\01reverseArray\01reverseArray\obj\Debug\net6.0\01reverseArray.AssemblyInfo.cs
+C:\Users\12243\source\6.28c#Assignment03\01reverseArray\01reverseArray\obj\Debug\net6.0\01reverseArray.csproj.CoreCompileInputs.cache
+C:\Users\12243\source\6.28c#Assignment03\01reverseArray\01reverseArray\obj\Debug\net6.0\01reverseArray.dll
+C:\Users\12243\source\6.28c#Assignment03\01reverseArray\01reverseArray\obj\Debug\net6.0\refint\01reverseArray.dll
+C:\Users\12243\source\6.28c#Assignment03\01reverseArray\01reverseArray\obj\Debug\net6.0\01reverseArray.pdb
+C:\Users\12243\source\6.28c#Assignment03\01reverseArray\01reverseArray\obj\Debug\net6.0\01reverseArray.genruntimeconfig.cache
+C:\Users\12243\source\6.28c#Assignment03\01reverseArray\01reverseArray\obj\Debug\net6.0\ref\01reverseArray.dll

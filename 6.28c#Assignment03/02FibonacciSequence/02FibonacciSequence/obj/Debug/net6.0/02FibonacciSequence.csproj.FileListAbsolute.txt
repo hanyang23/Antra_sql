@@ -1,0 +1,15 @@
+C:\Users\12243\source\6.28c#Assignment03\02FibonacciSequence\02FibonacciSequence\bin\Debug\net6.0\02FibonacciSequence.exe
+C:\Users\12243\source\6.28c#Assignment03\02FibonacciSequence\02FibonacciSequence\bin\Debug\net6.0\02FibonacciSequence.deps.json
+C:\Users\12243\source\6.28c#Assignment03\02FibonacciSequence\02FibonacciSequence\bin\Debug\net6.0\02FibonacciSequence.runtimeconfig.json
+C:\Users\12243\source\6.28c#Assignment03\02FibonacciSequence\02FibonacciSequence\bin\Debug\net6.0\02FibonacciSequence.dll
+C:\Users\12243\source\6.28c#Assignment03\02FibonacciSequence\02FibonacciSequence\bin\Debug\net6.0\02FibonacciSequence.pdb
+C:\Users\12243\source\6.28c#Assignment03\02FibonacciSequence\02FibonacciSequence\obj\Debug\net6.0\02FibonacciSequence.csproj.AssemblyReference.cache
+C:\Users\12243\source\6.28c#Assignment03\02FibonacciSequence\02FibonacciSequence\obj\Debug\net6.0\02FibonacciSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12243\source\6.28c#Assignment03\02FibonacciSequence\02FibonacciSequence\obj\Debug\net6.0\02FibonacciSequence.AssemblyInfoInputs.cache
+C:\Users\12243\source\6.28c#Assignment03\02FibonacciSequence\02FibonacciSequence\obj\Debug\net6.0\02FibonacciSequence.AssemblyInfo.cs
+C:\Users\12243\source\6.28c#Assignment03\02FibonacciSequence\02FibonacciSequence\obj\Debug\net6.0\02FibonacciSequence.csproj.CoreCompileInputs.cache
+C:\Users\12243\source\6.28c#Assignment03\02FibonacciSequence\02FibonacciSequence\obj\Debug\net6.0\02FibonacciSequence.dll
+C:\Users\12243\source\6.28c#Assignment03\02FibonacciSequence\02FibonacciSequence\obj\Debug\net6.0\refint\02FibonacciSequence.dll
+C:\Users\12243\source\6.28c#Assignment03\02FibonacciSequence\02FibonacciSequence\obj\Debug\net6.0\02FibonacciSequence.pdb
+C:\Users\12243\source\6.28c#Assignment03\02FibonacciSequence\02FibonacciSequence\obj\Debug\net6.0\02FibonacciSequence.genruntimeconfig.cache
+C:\Users\12243\source\6.28c#Assignment03\02FibonacciSequence\02FibonacciSequence\obj\Debug\net6.0\ref\02FibonacciSequence.dll

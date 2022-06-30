@@ -1,0 +1,5 @@
+C:\Users\12243\source\6.28c#Assignment03\DesignOOP\DesignOOP\obj\Debug\net6.0\DesignOOP.csproj.AssemblyReference.cache
+C:\Users\12243\source\6.28c#Assignment03\DesignOOP\DesignOOP\obj\Debug\net6.0\DesignOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12243\source\6.28c#Assignment03\DesignOOP\DesignOOP\obj\Debug\net6.0\DesignOOP.AssemblyInfoInputs.cache
+C:\Users\12243\source\6.28c#Assignment03\DesignOOP\DesignOOP\obj\Debug\net6.0\DesignOOP.AssemblyInfo.cs
+C:\Users\12243\source\6.28c#Assignment03\DesignOOP\DesignOOP\obj\Debug\net6.0\DesignOOP.csproj.CoreCompileInputs.cache

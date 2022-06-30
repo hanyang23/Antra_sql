@@ -1,0 +1,15 @@
+C:\Users\12243\source\6.28c#Assignment03\07createTwoClass\07createTwoClass\bin\Debug\net6.0\07createTwoClass.exe
+C:\Users\12243\source\6.28c#Assignment03\07createTwoClass\07createTwoClass\bin\Debug\net6.0\07createTwoClass.deps.json
+C:\Users\12243\source\6.28c#Assignment03\07createTwoClass\07createTwoClass\bin\Debug\net6.0\07createTwoClass.runtimeconfig.json
+C:\Users\12243\source\6.28c#Assignment03\07createTwoClass\07createTwoClass\bin\Debug\net6.0\07createTwoClass.dll
+C:\Users\12243\source\6.28c#Assignment03\07createTwoClass\07createTwoClass\bin\Debug\net6.0\07createTwoClass.pdb
+C:\Users\12243\source\6.28c#Assignment03\07createTwoClass\07createTwoClass\obj\Debug\net6.0\07createTwoClass.csproj.AssemblyReference.cache
+C:\Users\12243\source\6.28c#Assignment03\07createTwoClass\07createTwoClass\obj\Debug\net6.0\07createTwoClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12243\source\6.28c#Assignment03\07createTwoClass\07createTwoClass\obj\Debug\net6.0\07createTwoClass.AssemblyInfoInputs.cache
+C:\Users\12243\source\6.28c#Assignment03\07createTwoClass\07createTwoClass\obj\Debug\net6.0\07createTwoClass.AssemblyInfo.cs
+C:\Users\12243\source\6.28c#Assignment03\07createTwoClass\07createTwoClass\obj\Debug\net6.0\07createTwoClass.csproj.CoreCompileInputs.cache
+C:\Users\12243\source\6.28c#Assignment03\07createTwoClass\07createTwoClass\obj\Debug\net6.0\07createTwoClass.dll
+C:\Users\12243\source\6.28c#Assignment03\07createTwoClass\07createTwoClass\obj\Debug\net6.0\refint\07createTwoClass.dll
+C:\Users\12243\source\6.28c#Assignment03\07createTwoClass\07createTwoClass\obj\Debug\net6.0\07createTwoClass.pdb
+C:\Users\12243\source\6.28c#Assignment03\07createTwoClass\07createTwoClass\obj\Debug\net6.0\07createTwoClass.genruntimeconfig.cache
+C:\Users\12243\source\6.28c#Assignment03\07createTwoClass\07createTwoClass\obj\Debug\net6.0\ref\07createTwoClass.dll
